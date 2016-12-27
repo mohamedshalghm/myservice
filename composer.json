@@ -11,8 +11,6 @@
 		{
 			"name":"Mohammed Shalgham",
 			"email":"mohammed.shalgham@gmail.com",
-			"age":"26",
-			"homepage":"facebook.com/mohammedshalgham",
 			"role":"Developer"
 		}
 	],
@@ -24,7 +22,6 @@
 			"myservice\\service\\":"src/"
 		}
 	},
-	"minimum-stability": "dev",
-	"prefer-stable" : true
+	"minimum-stability":"dev"
 
 }
